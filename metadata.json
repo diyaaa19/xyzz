@@ -1,0 +1,8 @@
+{
+  "name": "BBC IR Benchmark & Hybrid Search Engine",
+  "description": "Information Retrieval pipeline on BBC News: TF-IDF, BM25Okapi, Sentence Transformers, and Reciprocal Rank Fusion (RRF) with Precision@10, Recall, MAP, nDCG evaluation and technical report.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
